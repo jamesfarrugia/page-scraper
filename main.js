@@ -32,7 +32,7 @@ scraper.onOpen = function()
 	console.log(evaluated);
 
 	phantom.exit();
-}
+};
 
 page.open(url, function(status)
 {
