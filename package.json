@@ -1,0 +1,14 @@
+{
+  "name": "intelliscrape",
+  "version": "0.0.1",
+  "description": "Scrape pages after JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrape"
+  ],
+  "author": "James Farrugia",
+  "license": "ISC"
+}
