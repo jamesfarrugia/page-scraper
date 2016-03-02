@@ -1,5 +1,5 @@
 var page = require('webpage').create();
-var url  = "http://exiplatform.com/sample.html";
+var url  = "http://google.com";
 var scraper = {};
 
 page.onError = function (msg, trace)
